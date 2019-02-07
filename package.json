@@ -1,0 +1,12 @@
+{
+  "name": "site",
+  "version": "0.0.1",
+  "homepage":"https://born2defy.github.io/site/",
+  "dependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "gh-pages": "latest"
+  }
+}
